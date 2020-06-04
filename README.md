@@ -1,4 +1,4 @@
-# translate-app
+# translate-app## Yandex translate Api kullanarak yaptýðým çeviri uygulamasý.
 
 ## Project setup
 ```
